@@ -52,17 +52,17 @@ RAKUTEN_BOOKS_API_URL = (
 # ここには自分の値を入れてください
 # チャットにはキーそのものを貼らないでください。
 
-RAKUTEN_APPLICATION_ID = "aa2f8790-0377-4a2d-b417-b8c20d524032"
+RAKUTEN_APPLICATION_ID = ""
 
-RAKUTEN_ACCESS_KEY = "pk_7RbCf77D0DX7UiajQMG43jxaIawopWfOuCiG4ZtpStX"
+RAKUTEN_ACCESS_KEY = ""
 
 # =========================================================
 # Gmail設定
 # =========================================================
 
-MY_EMAIL = "kaoruoza@gmail.com"
+MY_EMAIL = ""
 
-APP_PASSWORD = "owmernjntujwlafw"
+APP_PASSWORD = ""
 
 
 # =========================================================
